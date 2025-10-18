@@ -11,6 +11,8 @@ h1 {
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
+    font-weight: bold;
+    color: white;
     background-color: rgb(240, 126, 74);
 }
 
