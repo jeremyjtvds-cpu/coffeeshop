@@ -94,7 +94,8 @@ footer a:hover {
   color: #ffe0b2 !important; /* Light coffee cream on hover */
 }
 .carousel-inner img {
-  height: 500px;
+  height: auto;
+  width: 300px;
   object-fit: cover;
 }
 
@@ -113,4 +114,11 @@ footer a:hover {
     background-color: rgb(240, 126, 74);
     color: white;
     padding: 3px; 
+}
+
+.mycarousel {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
 }
