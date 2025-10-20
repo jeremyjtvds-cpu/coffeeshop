@@ -86,6 +86,10 @@ nav {
 .navbar {
   background-color: #6f4e37 !important; /* coffee brown */
 }
+
 footer {
   background-color: #6f4e37 !important; /* Coffee brown */
+}
+footer a:hover {
+  color: #ffe0b2 !important; /* Light coffee cream on hover */
 }
