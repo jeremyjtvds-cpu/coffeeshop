@@ -93,3 +93,13 @@ footer {
 footer a:hover {
   color: #ffe0b2 !important; /* Light coffee cream on hover */
 }
+.carousel-inner img {
+  height: 500px;
+  object-fit: cover;
+}
+
+.carousel-caption {
+  bottom: 1.5rem;
+  font-size: 1.1rem;
+}
+
